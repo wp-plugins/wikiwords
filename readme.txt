@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Scans your pages for CamelCaseWords, or WikiWords, and links them to appropriate internal pages.
 
+** Beta - Under active development **
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
